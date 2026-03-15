@@ -1,6 +1,7 @@
 ### Google Foundations of Cybersecurity
 Learning Portfolio
 
+![image](https://github.com/SWE-StaceyL/Google-Cybersecurity-Portfolio/blob/main/0.png?raw=true)
 
 ### Google Cybersecurity Certificate — Learning Portfolio
 
