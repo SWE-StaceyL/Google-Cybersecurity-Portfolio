@@ -1,9 +1,6 @@
 ### Google Foundations of Cybersecurity
 Learning Portfolio
 
-![Google Cybersecurity Certificate](https://img.shields.io/badge/Google-Cybersecurity%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Security%20Analyst-red?style=for-the-badge)
 
 ### Google Cybersecurity Certificate — Learning Portfolio
 
